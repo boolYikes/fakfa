@@ -35,7 +35,7 @@
 
 **Problem🎵**
 - The added layer of management is a major caveat
-- Take, for instance, `MongoDB`, `Cassandra`, `ElasticSearch` -> no dependency *Mongo is distributed?? Holy 🐟*
+- Take, for instance, `MongoDB`, `Cassandra`, `ElasticSearch` -> no dependency </br> *Mongo is distributed?? Holy 🐟*
 - In short, you'd be running a duplex distrib system 😱
 
 **Enter, KRaft 👏🏻**
@@ -55,7 +55,7 @@
 ### Comparison
 ---
 
-> Operational charge method and cost vary by service
+> Operational charges and charging method may vary
 <div align="center">
 
 |  | Kafka | Kinesis | RabbitMQ | Pulsar | Redis Streams | Pub/Sub | Event Hubs |
